@@ -23,7 +23,7 @@ theme = "hugo-serif-theme"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "FH Petroleum Engineering"
 
   [params.seo]
     meta_twitter_site = "@zerostaticio"
